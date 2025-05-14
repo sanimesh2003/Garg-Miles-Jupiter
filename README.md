@@ -118,7 +118,6 @@ This figure presents an analysis of Jupiter's atmospheric bands. The left panel 
 ![Outcome 2](outcome%202.png)
 
 ---
-*(Optional: Add more text here if needed, or a horizontal rule `---` to separate from the next section clearly)*
 
 ## Future Development
 
