@@ -108,12 +108,12 @@ The primary objective of this research project is to develop and implement a rob
 This section showcases some of the key visual outcomes from the Jupiter image analysis project.
 
 **Outcome 1:**
-*(Please add a brief description of what this image shows here.)*
+This output displays a light curve (top) representing the average flux variation from a sequence of Jupiter observations (Cluster 2). The accompanying grid of images (bottom) shows the corresponding visual frames of Jupiter (observations 27-52), illustrating the planet's rotation and the transit of one of its moons and its shadow (visible from frame 46).
 
 ![Outcome 1](outcome%201.png)
 
 **Outcome 2:**
-*(Please add a brief description of what this image shows here.)*
+This figure presents an analysis of Jupiter's atmospheric bands. The left panel shows an enhanced image of Jupiter with its disk outlined, highlighting a moon shadow transit. The center panel displays a latitudinal intensity profile, quantifying the brightness variations across Jupiter's cloud bands, with identified zones (brighter regions) and belts (darker regions). The right panel shows the Fast Fourier Transform (FFT) of this intensity profile, revealing the dominant spatial frequencies and characteristic spacing of these atmospheric features.
 
 ![Outcome 2](outcome%202.png)
 
