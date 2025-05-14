@@ -139,7 +139,7 @@ Please ensure that any contributions align with the project's goals and maintain
 
 ## License
 
-Please specify a license if you intend for this project to be open source (e.g., MIT, Apache 2.0). If no license is specified, standard copyright laws apply. Consider visiting [choosealicense.com](https://choosealicense.com/) for help selecting a license.
+This entire code is open source and can be used by anyone for any project for academic/professional development.
 
 ## Contact
 
